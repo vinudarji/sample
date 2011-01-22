@@ -1,0 +1,6 @@
+?php
+class ViewsController extends AppController {
+
+	var $name = 'Views';
+}
+?>
